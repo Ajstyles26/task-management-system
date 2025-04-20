@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "keThtNU5tIx7iG/22nXPPtAzx9UbF76fjnG6pDfqzsU=",
+  "Source": "TaskManagementApi",
+  "BasePath": "_content/TaskManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManagementApi\\wwwroot",
+      "Source": "TaskManagementApi",
+      "ContentRoot": "C:\\Users\\adeba\\Documents\\Github\\task-management-system\\TaskManagementApi\\wwwroot\\",
+      "BasePath": "_content/TaskManagementApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
